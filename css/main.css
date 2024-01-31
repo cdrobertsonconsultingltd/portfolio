@@ -10,7 +10,7 @@ body {
 }
 
 .background-craig-robertson {
-    background-image: url("img/craig-robertson-profile.jpg");
+    background-image: url("../img/craig-robertson-profile.jpg");
     background-position: 0 50%;
     background-size: cover;
     background-repeat: no-repeat;
