@@ -210,6 +210,16 @@ a:hover {
     }
 }
 
+@media (min-width: 1200px){
+    .carousel-control-prev {
+        left: -180px;
+    }
+
+    .carousel-control-next {
+        right: -140px;
+    }
+}
+
 @media (max-width: 768px){
     .vh-100 {
         height: auto !important;
